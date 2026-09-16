@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=240&section=header&text=Giacomo%20Cerretini&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Giacomo Cerretini banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc5c7d,100:6a3093&height=240&section=header&text=Giacomo%20Cerretini&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Giacomo Cerretini banner"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&center=true&vCenter=true&width=640&lines=Code.%20Create.%20Explore.%20Repeat.;From%20ideas%20to%20code%2C%20from%20code%20to%20something%20real.;Where%20code%20meets%20creativity.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ec4899&center=true&vCenter=true&width=640&lines=Code.%20Create.%20Explore.%20Repeat.;From%20ideas%20to%20code%2C%20from%20code%20to%20something%20real.;Where%20code%20meets%20creativity.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/giacomo-cerretini-014b83b0) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://gicerretini@gmail.com) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gicerretini@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.instagram.com/giacomocerre/) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/gicerre) ![Profile Views](https://komarev.com/ghpvc/?username=gicerre&color=00e87a&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/giacomo-cerretini-014b83b0) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://gicerretini@gmail.com) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gicerretini@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.instagram.com/giacomocerre/) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/gicerre) ![Profile Views](https://komarev.com/ghpvc/?username=gicerre&color=ec4899&style=flat-square)
 
 ![DM me](https://img.shields.io/badge/%F0%9F%94%B5%20DM%20me-3b82f6?style=flat-square) [![Building -&gt; LlamaDesk](https://img.shields.io/badge/Building%20-%3E%20LlamaDesk-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/gicerre/llamadesk) ![Leghorn](https://img.shields.io/badge/Leghorn-333?style=flat-square)
 
@@ -59,54 +59,9 @@ Thanks for stopping by and for supporting independent creators! ☕
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gicerre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Giacomo Cerretini stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gicerre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Giacomo Cerretini top languages"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gicerre&theme=midnight_purple&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gicerre&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gicerre&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=gicerre&theme=tokyo-night&hide_border=true&area=true)
-
-### Coding Time
-
-<div align="center">
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=gicerre&theme=tokyonight&hide_border=true)](https://wakatime.com/@gicerre)
-
-</div>
-
-> Requires a public WakaTime profile
-
-### Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
-
-> Requires [Novatorem](https://github.com/novatorem/novatorem) setup
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gicerre/gicerre/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gicerre/gicerre/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> Requires GitHub Actions setup
-
-> "Turning ideas into software, one project at a time."
 
 ---
 
@@ -114,6 +69,6 @@ Thanks for stopping by and for supporting independent creators! ☕
 
 <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/gicerre">github.com/gicerre</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=120&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc5c7d,100:6a3093&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
